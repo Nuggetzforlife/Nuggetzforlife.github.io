@@ -1,0 +1,53 @@
+/* CSS Document */
+
+body {
+	background-color:white;
+	
+}
+h1{
+	text-transform: uppercase;
+	text-align: center;
+	background-color: white;
+	color:black;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-shadow: 2px 2px 5px red;
+}
+P{
+	font-size:18px;
+	font-family:Consolas, 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', Monaco, 'Courier New', 'monospace';
+	font-width:normal;
+	color:black;
+	text-align: justify;
+	line-height: 150%
+	}
+a{text-decoration: none;}
+
+h2{
+	font-size:35px;
+    background-color: darkgray;
+	text-align: center;
+	color:black;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+
+a;hover:
+{color:#f00;
+}
+ 
+
+img{
+	width: 50%;
+	height:auto;
+	
+}
+
+
+div.fixed{
+position:fixed;
+	bottom:0;
+	right:0;
+	width:300px;
+	
+	
+}
