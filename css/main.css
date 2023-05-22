@@ -35,13 +35,13 @@ a;hover:
 {color:#f00;
 }
  
-
+<style>
 img{
 	width: 30%;
 	height:auto;
 	
 }
-
+</style>
 
 div.fixed{
 position:fixed;
