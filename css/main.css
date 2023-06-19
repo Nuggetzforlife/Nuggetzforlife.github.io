@@ -4,6 +4,16 @@ body {
 	background-color:white;
 	
 }
+#mainmenu{ 
+	margin:0;
+	padding:0;
+}
+#mainmenu li{
+	display:inline;
+	padding:0 1em 0 0;
+}
+
+
 
 h1{
 	text-transform: uppercase;
