@@ -4,8 +4,21 @@
 <meta charset="utf-8">
 <title>Wearable Technology Video</title:>
 
+	<link rel="stylesheet"type="text/css"href="css/main.css">
 </head>
+
 <body>
+	<h1>Video</h1>
+	
+	<ul>
+	<li><a href= "index.html">Home</a></li>
+	<li><a href="arms.html">Arms</a></li>
+	<li><a href="clothing.html">Clothing</a></li>
+	<li><a href="feet.html">Feet</a></li>
+	<li><a href="head.html">Head</a></li>
+	<li><a href="contact.html">Contact</a></li>
+  <li><a href="video.html">Video</a></li>
+	</ul>
 
 
 
